@@ -1,0 +1,6 @@
+{
+  "name": "Sinha Tours - Sri Lanka Travel Specialist",
+  "description": "Customized Sri Lanka tour packages, private chauffeur guides, wildlife safaris, and round-island travel itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
